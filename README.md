@@ -1,4 +1,4 @@
-# [Live Demo](http://codingthat.github.io/DaKT/)
+# [Live Demo](http://codingthat.github.io/flittable/)
 
 # DaKT
 Dial-a-Knee-Thing is a lightning-fast, exploration-based hierarchy viewer, meant to scale from personal bookmarks all the way up to a replacement for large corporate web sites' nav pages / site maps; it also refers to the ideas behind the viewer, and the format in which it stores its data.
